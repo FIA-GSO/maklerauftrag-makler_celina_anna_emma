@@ -1,1 +1,1 @@
-print("hello World")
+goodbye my lover, goodbye my friend!
